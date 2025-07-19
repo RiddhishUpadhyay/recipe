@@ -1,0 +1,20 @@
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+
+# macOS system file
+.DS_Store
+
+# Windows system file
+Thumbs.db
+
+# PostgreSQL dump files
+*.sql~
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Environment or secret files (if you add an app later)
+.env
